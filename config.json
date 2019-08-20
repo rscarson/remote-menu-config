@@ -60,8 +60,110 @@
 		## ------------------------
 		{
 			"character" : "bugs",
-			"name": "Carrot Juice fishk", 
+			"name": "Carrot Juice", 
 			"ingredients": "Ginger Beer, Vodka, Carrot Juice, Lime, Angostura Bitters",
+			"price": "$2.75",
+			"available": true
+		},
+		{
+			"character" : "lola",
+			"name": "Pornstar Martini", 
+			"ingredients": "Absolut Vanilia, Passion Fruit Puree, Vanilla Syrup, Pineaple",
+			"price": "$2.75",
+			"available": true
+		},
+		{
+			"character": "coyote",
+			"name": "Kentucky Coffee", 
+			"ingredients": "Bourbon, Kahlua, Vanilla Extract, Whipped Cream, Hot Coffee",
+			"price": "$2.75",
+			"available": true
+		},
+		{
+			"character" : "frog",
+			"name": "Michigan Rag", 
+			"ingredients": "Rum, Club Soda, Sugar, Lime Wedge, Mint Leaves",
+			"price": "$2.75",
+			"available": true
+		},
+		{
+			"character": "elmer",
+			"name": "Chocolate Wabbit", 
+			"ingredients": "Chocolate Liqueur, Creme de Cacao, Half-and-Half, Vodka",
+			"price": "$2.75",
+			"available": true
+		},
+		{
+			"character": "foghorn",
+			"name": "Strawberry Foghorn", 
+			"ingredients": "Rum, Lime Juice, Simple Syrup, Strawberries",
+			"price": "$2.75",
+			"available": true
+		},
+		{
+			"character" : "pepe",
+			"name": "French 75", 
+			"ingredients": "Gin, Lemon Juice, Simple Syrup, Champagne",
+			"price": "$2.75",
+			"available": true
+		},
+		{
+			"character": "speedy",
+			"name": "Andale Andale!", 
+			"ingredients": "Salt, Cayenne Pepper, Lime Juice, Worcestershire, Tabasco, Celery Salt, Mexican Lager",
+			"price": "$2.75",
+			"available": true
+		},
+
+		## ------------------------
+		## -------- Page 2 --------
+		## ------------------------
+		{
+			"character": "roadrunner",
+			"name": "Blueberry Speedster", 
+			"ingredients": "Ginger Beer, Whiskey, Sugar, Lemon Wedge, Blueberries",
+			"price": "$2.75",
+			"available": true
+		},
+		{
+			"character" : "porky",
+			"name": "Pineaple Porky", 
+			"ingredients": "Vodka, Blue Curacao, Coconut Syrup, Pineaple Juice, Cherry",
+			"price": "$2.75",
+			"available": true
+		},
+		{
+			"character": "sylvester",
+			"name": "Raspberry Sukatash", 
+			"ingredients": "Gin, Simple Syrup, Lemon Juice, Club Soda, Raspberries",
+			"price": "$2.75",
+			"available": true
+		},
+		{
+			"character": "daffy",
+			"name": "Orange you glad it's Duck Season", 
+			"ingredients": "Gin, Sweet Vermouth, Orange Juice",
+			"price": "$2.75",
+			"available": true
+		},
+		{
+			"character": "marvin",
+			"name": "Martian Marshmallow", 
+			"ingredients": "Vodka, Amaretto Liqueur, Simple Syrup, Lemon Juice, Marshmallow Fluff, Crushed Graham Cracker",
+			"price": "$2.75",
+			"available": true
+		},
+		{
+			"character" : "taz",
+			"name": "Cinnamon Twister", 
+			"ingredients": "Club Soda, Bitters, Apple Butter, Bourbon, Cinnamon Stick, Sugar Cube",
+			"price": "$2.75",
+			"available": true
+		},
+		{
+			"character": "tweety",
+			"name": "Lemon Tweet", 
+			"ingredients": "Vodka, Triple Sec, Lemon Juice, Lime Wedge",
 			"price": "$2.75",
 			"available": true
 		}
