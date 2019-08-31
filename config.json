@@ -35,7 +35,7 @@
 		"items_per_page"			: 8,
 
 		## Text options
-		"text_font_sizes"			: [28, 16, 16],
+		"text_font_sizes"			: [28, 20, 20],
 		"text_font"					: "Helvetica",
 		"text_font_bold"			: true,
 		"text_shadow_darkness"		: 40,
